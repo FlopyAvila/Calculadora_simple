@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+
+body{
+    background-image: url(../images/fondo.jpeg);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fondo-calculadora{
+    background-color: #62ac89;
+    padding-top: 5em !important;
+}
+
+h1{
+    color: #117411;
+    font-size: 3rem;
+    font-family: "Nerko One"
+}
+
+.btn-primary{
+    background-color: #d3ffda;
+}
+
+.btn-secondary{
+    background-color: #83fa78;
+}
+
+.btn-success{
+    background-color: #00ff11;
+}
+
+.btn-danger{
+    background-color: #ffaeb2;
+}
+.btn{
+    color: black;
+}
+
+.btn-primary:hover{
+    background-color: #d3ffda;
+    color: initial;
+    border-color: initial;
+}
+
+.btn-secondary:hover{
+    background-color: #83fa78;
+    color: initial;
+    border-color: initial;
+}
+
+.btn-success:hover{
+    background-color: #00ff11;
+    color: initial;
+    border-color: initial;
+}
+
+.btn-danger:hover{
+    background-color: #ffaeb2;
+    color: initial;
+    border-color: initial;
+}
+
+.btn:active{
+    background-color: #000000 !important;
+    color: white; 
+}
+
+.container{
+    max-width: 40rem;
+}
+
